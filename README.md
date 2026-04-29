@@ -1,2 +1,2 @@
-# VGTcraft
+# Recipe Pack
 添加了一些便捷的配方，使某些过程不那么繁琐。
